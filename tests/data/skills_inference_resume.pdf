@@ -1,0 +1,119 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1923 >>
+stream
+BT
+/F1 10 Tf
+50 800 Td
+12 TL
+(Sachin V) Tj
+T*
+(Email: sachin.v@example.com) Tj
+T*
+(Phone: +91 98765 43210) Tj
+T*
+(Location: Bangalore, India) Tj
+T*
+(LinkedIn: linkedin.com/in/sachinv) Tj
+T*
+() Tj
+T*
+(SUMMARY) Tj
+T*
+(Backend-focused software engineer with 3+ years building APIs, data pipelines, and production ML features.) Tj
+T*
+() Tj
+T*
+(EXPERIENCE) Tj
+T*
+(TechNova Solutions Pvt Ltd - Software Engineer) Tj
+T*
+(Jul 2022 - Present) Tj
+T*
+(- Built REST APIs for customer onboarding and KYC workflows using FastAPI.) Tj
+T*
+(- Designed PostgreSQL schemas and wrote complex SQL queries for reporting.) Tj
+T*
+(- Containerized services with Docker and deployed on Kubernetes.) Tj
+T*
+(- Set up CI/CD pipelines with GitHub Actions.) Tj
+T*
+(- Added Redis caching to reduce API response time by 35%.) Tj
+T*
+(- Implemented model-serving endpoint for document classification \(Python + scikit-learn\).) Tj
+T*
+() Tj
+T*
+(ByteCraft Labs - Associate Software Engineer) Tj
+T*
+(Jan 2021 - Jun 2022) Tj
+T*
+(- Developed ETL jobs for resume parsing and normalization.) Tj
+T*
+(- Wrote async workers for OCR post-processing and queue handling.) Tj
+T*
+(- Created monitoring dashboards and alerts for failed extraction jobs.) Tj
+T*
+() Tj
+T*
+(PROJECTS) Tj
+T*
+(Resume Intelligence Platform) Tj
+T*
+(- End-to-end pipeline: PDF ingestion, OCR cleanup, entity extraction, scoring, and export.) Tj
+T*
+(- Tech used in project notes: Python, FastAPI, PostgreSQL, Redis, Docker, Kubernetes.) Tj
+T*
+() Tj
+T*
+(Support Ticket Classifier) Tj
+T*
+(- Trained and deployed a text classifier for automatic ticket routing.) Tj
+T*
+(- Used TF-IDF features, logistic regression, and evaluation with precision/recall.) Tj
+T*
+() Tj
+T*
+(EDUCATION) Tj
+T*
+(B.E. in Computer Science, Visvesvaraya Technological University, 2020) Tj
+T*
+() Tj
+T*
+(CERTIFICATIONS) Tj
+T*
+(AWS Certified Cloud Practitioner \(2023\)) Tj
+T*
+() Tj
+T*
+(SKILLS) Tj
+T*
+([INTENTIONALLY LEFT BLANK]) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2286
+%%EOF

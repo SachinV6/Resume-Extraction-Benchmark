@@ -1,0 +1,21 @@
+Sachin V
+Email: sachin@gmail.com
+Phone: +91 9999999999
+Location: Bangalore, India
+
+Skills: Python, FastAPI, LangChain, SQL, Docker, Git
+
+Education:
+B.Tech Computer Science - XYZ University (2021)
+
+Experience:
+Software Developer - ABC Corp (2022-2024)
+- Built APIs in FastAPI
+- Worked with PostgreSQL
+- Used Docker for deployment
+
+Projects:
+Resume Parser using LLMs
+- Built resume extraction system using LangChain + Ollama
+- Output in JSON format
+Tech: Python, LangChain, Ollama

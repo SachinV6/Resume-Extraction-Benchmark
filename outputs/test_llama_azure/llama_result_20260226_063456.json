@@ -1,0 +1,170 @@
+{
+  "model_used": "meta-llama-azure",
+  "data": {
+    "email": "vikram.narayanan.ml@gmail.com",
+    "phone": "+91 99881 11223",
+    "summary": "Senior engineer with 9+ years of experience building distributed backend systems and LLM-powered document intelligence platforms.",
+    "projects": [
+      {
+        "name": "DocMind AI",
+        "description": "Enterprise-grade document parsing system using LLMs and semantic search"
+      },
+      {
+        "name": "TalentMatch Engine",
+        "description": "Candidate ranking system using embeddings and cosine similarity matching"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Tech \u2013 Artificial Intelligence",
+        "institution": "BITS Pilani",
+        "year": "2015"
+      },
+      {
+        "degree": "B.E \u2013 Computer Science",
+        "institution": "Anna University",
+        "year": "2013"
+      }
+    ],
+    "skills": [
+      "Azure OpenAI",
+      "LLaMA",
+      "FastAPI",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL",
+      "Redis",
+      "Python",
+      "Spark",
+      "React",
+      "SQL",
+      "Django",
+      "NLP",
+      "Text normalization",
+      "Semantic search",
+      "Embeddings",
+      "Transformer models"
+    ],
+    "full_name": "Vikram Narayanan",
+    "work_experience": [
+      {
+        "title": "Principal Engineer \u2013 QuantAxis Analytics",
+        "duration": "2021 \u2013 Present",
+        "responsibilities": [
+          "Designed resume intelligence platform powered by Azure OpenAI and local LLaMA models",
+          "Built asynchronous backend APIs using FastAPI",
+          "Deployed services using Docker and Kubernetes",
+          "Implemented PostgreSQL schema migrations and Redis caching",
+          "Led migration from monolith to microservices architecture",
+          "Reduced inference latency by 38% through performance optimization"
+        ],
+        "technologies": [
+          "Azure OpenAI",
+          "LLaMA",
+          "FastAPI",
+          "Docker",
+          "Kubernetes",
+          "PostgreSQL",
+          "Redis"
+        ],
+        "role": "Principal Engineer",
+        "company": "QuantAxis Analytics"
+      },
+      {
+        "title": "Senior Software Engineer \u2013 DataNest Labs",
+        "duration": "2018 \u2013 2021",
+        "responsibilities": [
+          "Developed data ingestion pipelines using Python and Spark",
+          "Implemented NLP preprocessing and text normalization workflows",
+          "Designed REST APIs consumed by React dashboards",
+          "Optimized SQL queries and database indexing",
+          "Built semantic search system using embeddings and transformer models"
+        ],
+        "technologies": [
+          "Python",
+          "Spark",
+          "React",
+          "SQL",
+          "Database indexing"
+        ],
+        "role": "Senior Software Engineer",
+        "company": "DataNest Labs"
+      },
+      {
+        "title": "Software Engineer \u2013 InfoCrest Technologies",
+        "duration": "2015 \u2013 2018",
+        "responsibilities": [
+          "Backend development using Django",
+          "Built internal admin dashboards",
+          "Created automation scripts for data processing",
+          "Maintained relational database systems"
+        ],
+        "technologies": [
+          "Django"
+        ],
+        "role": "Software Engineer",
+        "company": "InfoCrest Technologies"
+      }
+    ],
+    "company": [
+      "QuantAxis Analytics",
+      "DataNest Labs",
+      "InfoCrest Technologies"
+    ]
+  },
+  "metrics": {
+    "prompt_tokens_estimate": 423,
+    "output_tokens_estimate": 371,
+    "total_tokens_estimate": 794,
+    "time_seconds": 4.207,
+    "tokens_per_second_estimate": 188.73,
+    "usage_before": {
+      "system": {
+        "system_cpu_percent": 6.3,
+        "system_ram_percent": 42.3
+      },
+      "python_process": {
+        "process_cpu_percent": 0.0,
+        "process_ram_mb": 180.54
+      },
+      "gpu": {
+        "gpu_memory_used_mb": 1337.69,
+        "gpu_memory_total_mb": 6144.0,
+        "gpu_utilization_percent": 22
+      }
+    },
+    "usage_after": {
+      "system": {
+        "system_cpu_percent": 0.4,
+        "system_ram_percent": 42.3
+      },
+      "python_process": {
+        "process_cpu_percent": 0.0,
+        "process_ram_mb": 181.79
+      },
+      "gpu": {
+        "gpu_memory_used_mb": 1337.5,
+        "gpu_memory_total_mb": 6144.0,
+        "gpu_utilization_percent": 0
+      }
+    }
+  },
+  "score": {
+    "name_correct": true,
+    "education_hits": 4,
+    "education_total": 4,
+    "company_hits": 0,
+    "company_total": 3,
+    "skills": {
+      "predicted_count": 17,
+      "true_positives": 14,
+      "false_positives": 3,
+      "false_negatives": 2,
+      "precision": 0.8235,
+      "recall": 0.875,
+      "f1": 0.8485,
+      "hallucination_rate": 0.1765
+    },
+    "final_score_100": 75.91
+  }
+}
